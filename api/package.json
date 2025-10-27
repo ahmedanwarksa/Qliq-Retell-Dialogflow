@@ -1,0 +1,11 @@
+{
+  "name": "qliq-retell-dialogflow",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@google-cloud/dialogflow-cx": "^5.0.0",
+    "ws": "^8.14.2"
+  }
+}
